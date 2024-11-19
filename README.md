@@ -16,7 +16,6 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a></p>
 <h2>⚡Say Hello</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/in/shahadad" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><a target="_blank" href="https://shahadad.com/" style="display: inline-block;"><img src="https://i.postimg.cc/HkDPVpx5/New-logo.png" alt="shahadad" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshahadad&show_icons=true&locale=en" alt="mdshahadad" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshahadad&" alt="mdshahadad" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshahadad&show_icons=true&locale=en&layout=compact" alt="mdshahadad" /></p>
