@@ -2,7 +2,7 @@
 
 <h2>🚀 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐢𝐧𝐠 𝐈𝐝𝐞𝐚𝐬 𝐢𝐧𝐭𝐨 𝐒𝐞𝐚𝐦𝐥𝐞𝐬𝐬 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐬.</h2>
 <h3>Assalamualaiku, Everyone</h3>
-<p>🌟 𝐇𝐞𝐥𝐥𝐨! 𝐈’𝐦 𝐌𝐃 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐝 𝐇𝐨𝐬𝐬𝐚𝐢𝐧. I am a passionate and driven 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from Chittagong, Bangladesh, dedicated to crafting user-friendly, visually appealing, and performance-driven web applications. With expertise in modern web technologies and a strong focus on delivering scalable solutions, I thrive on helping businesses establish a powerful digital presence.
+<p>🌟 𝐈’𝐦 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐝 𝐇𝐨𝐬𝐬𝐚𝐢𝐧. I am a passionate and driven 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from Chittagong, Bangladesh, dedicated to crafting user-friendly, visually appealing, and performance-driven web applications. With expertise in modern web technologies and a strong focus on delivering scalable solutions, I thrive on helping businesses establish a powerful digital presence.
 </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
