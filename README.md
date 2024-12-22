@@ -1,7 +1,23 @@
 <img src="https://i.postimg.cc/ydVwxMYZ/Shahadad-React-Developer-1.jpg"/>
 
-<h1>Assalamualaiku, Everyone</h1>
-<p>I'm Md Shahadad Hossain, a skilled front-end web developer and Computer Science student from Bangladesh. With years of experience, I specialize in creating reliable, visually appealing websites that deliver results. I'm passionate about innovation and committed to helping businesses enhance their digital presence with high-quality web solutions.</p>
+🚀 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐢𝐧𝐠 𝐈𝐝𝐞𝐚𝐬 𝐢𝐧𝐭𝐨 𝐒𝐞𝐚𝐦𝐥𝐞𝐬𝐬 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐬. 🌟 𝐇𝐞𝐥𝐥𝐨! 𝐈’𝐦 𝐌𝐃 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐝 𝐇𝐨𝐬𝐬𝐚𝐢𝐧. 🌟 I am a passionate and driven 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from Chittagong, Bangladesh, dedicated to crafting user-friendly, visually appealing, and performance-driven web applications. With expertise in modern web technologies and a strong focus on delivering scalable solutions, I thrive on helping businesses establish a powerful digital presence.
+
+⚙️ 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐔𝐬𝐞:
+
+𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: ReactJS, JavaScript (ES6+), Typescript, HTML5, CSS3, TailwindCSS, Bootstrap
+
+𝐁𝐚𝐜𝐤𝐞𝐧𝐝: Node.js, Express.js
+
+𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞: MongoDB
+
+𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥: Git, GitHub
+
+𝐎𝐭𝐡𝐞𝐫 𝐓𝐨𝐨𝐥𝐬: Figma, REST APIs, Firebase
+
+<h1>🚀 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐢𝐧𝐠 𝐈𝐝𝐞𝐚𝐬 𝐢𝐧𝐭𝐨 𝐒𝐞𝐚𝐦𝐥𝐞𝐬𝐬 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐬.</h1>
+<h2>Assalamualaiku, Everyone</h2>
+<p>🚀 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐢𝐧𝐠 𝐈𝐝𝐞𝐚𝐬 𝐢𝐧𝐭𝐨 𝐒𝐞𝐚𝐦𝐥𝐞𝐬𝐬 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐬. 🌟 𝐇𝐞𝐥𝐥𝐨! 𝐈’𝐦 𝐌𝐃 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐝 𝐇𝐨𝐬𝐬𝐚𝐢𝐧. I am a passionate and driven 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from Chittagong, Bangladesh, dedicated to crafting user-friendly, visually appealing, and performance-driven web applications. With expertise in modern web technologies and a strong focus on delivering scalable solutions, I thrive on helping businesses establish a powerful digital presence.
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
