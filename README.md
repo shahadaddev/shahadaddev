@@ -1,24 +1,24 @@
 <img src="https://i.postimg.cc/qq1m7gt6/Github-Updated-Banner.jpg"/>
 <h3>Assalamualaikum, Everyone</h3>
-<p>🚀 𝐃𝐨 𝐲𝐨𝐮 𝐟𝐞𝐞𝐥 𝐲𝐨𝐮𝐫 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 𝐢𝐬 𝐡𝐨𝐥𝐝𝐢𝐧𝐠 𝐛𝐚𝐜𝐤 𝐲𝐨𝐮𝐫 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐠𝐫𝐨𝐰𝐭𝐡?
+<p>🚀 𝐃𝐨 𝐲𝐨𝐮 𝐟𝐞𝐞𝐥 𝐲𝐨𝐮𝐫 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 𝐢𝐬 𝐡𝐨𝐥𝐝𝐢𝐧𝐠 𝐛𝐚𝐜𝐤 𝐲𝐨𝐮𝐫 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐠𝐫𝐨𝐰𝐭𝐡? <br/>
 Slow loading, outdated design, or limited templates can frustrate users, restrict your ideas, and cost you valuable leads and sales. Imagine instead having a high-performance, custom-built website that works for your business - engaging visitors, driving conversions, and scaling as you grow.
 
 👋 Hi, I’m 𝐌𝐝 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐝 𝐇𝐨𝐬𝐬𝐚𝐢𝐧, 𝐚 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 passionate about helping entrepreneurs, startups, and businesses transform their digital presence. With hands-on expertise in React, Node.js, MongoDB, JavaScript, Tailwind CSS, and API integrations, I design and develop modern, responsive, and user-friendly websites that don’t just look great they deliver measurable results.
 
 💡 Over the years, I have gained hands-on experience developing websites for various industries, including 𝐞-𝐜𝐨𝐦𝐦𝐞𝐫𝐜𝐞, 𝐡𝐞𝐚𝐥𝐭𝐡𝐜𝐚𝐫𝐞, 𝐫𝐞𝐚𝐥 𝐞𝐬𝐭𝐚𝐭𝐞, 𝐭𝐫𝐚𝐯𝐞𝐥, 𝐞𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧, 𝐫𝐞𝐬𝐭𝐚𝐮𝐫𝐚𝐧𝐭𝐬, 𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨𝐬, 𝐚𝐧𝐝 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐰𝐞𝐛𝐬𝐢𝐭𝐞𝐬. I specialize in building:
 
-✅ Custom business websites
-✅ E-commerce platforms
-✅ Landing pages & portfolios
-✅ Booking & reservation systems
-✅ Inventory dashboards and custom solutions
-✅ Healthcare Solutions
-✅ Restaurant & Fitness Website
+✅ Custom business websites <br/>
+✅ E-commerce platforms <br/>
+✅ Landing pages & portfolios <br/>
+✅ Booking & reservation systems <br/>
+✅ Inventory dashboards and custom solutions <br/>
+✅ Healthcare Solutions <br/>
+✅ Restaurant & Fitness Website <br/>
 
-⚡ 𝐈 𝐥𝐞𝐯𝐞𝐫𝐚𝐠𝐞 𝐦𝐨𝐝𝐞𝐫𝐧 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐭𝐨 𝐝𝐞𝐥𝐢𝐯𝐞𝐫 𝐟𝐚𝐬𝐭, 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞, 𝐚𝐧𝐝 𝐬𝐞𝐜𝐮𝐫𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬, 𝐢𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠:
-✅ 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: React, HTML, CSS, Tailwind CSS, JavaScript
-✅ 𝐁𝐚𝐜𝐤𝐞𝐧𝐝: Node.js, Express.js, REST APIs
-✅ 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞: MongoDB
+⚡ 𝐈 𝐥𝐞𝐯𝐞𝐫𝐚𝐠𝐞 𝐦𝐨𝐝𝐞𝐫𝐧 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐭𝐨 𝐝𝐞𝐥𝐢𝐯𝐞𝐫 𝐟𝐚𝐬𝐭, 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞, 𝐚𝐧𝐝 𝐬𝐞𝐜𝐮𝐫𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬, 𝐢𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠: <br/>
+✅ 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: React, HTML, CSS, Tailwind CSS, JavaScript <br/>
+✅ 𝐁𝐚𝐜𝐤𝐞𝐧𝐝: Node.js, Express.js, REST APIs <br/>
+✅ 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞: MongoDB <br/>
 
 ✨ My mission is simple: to help businesses unlock the full potential of their online presence with websites that reflect their vision and convert visitors into long-term customers.
 
