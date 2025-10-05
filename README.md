@@ -1,6 +1,6 @@
 <img src="https://i.postimg.cc/qq1m7gt6/Github-Updated-Banner.jpg"/>
 <h3><b>I build modern, high performance websites 🚀 that help grow your business</b> 📈</h3>
-<p>🚀 <h4><b>Do you feel your website is holding back your business growth?</b> </h4> <br/>
+<p>🚀<h4>Do you feel your website is holding back your business growth?</h4> <br/>
 Slow loading, outdated design, or limited templates can frustrate users, restrict your ideas, and cost you valuable leads and sales. Imagine instead having a high-performance, custom-built website that works for your business - engaging visitors, driving conversions, and scaling as you grow.
 
 👋 Hi, I’m 𝐌𝐝 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐝 𝐇𝐨𝐬𝐬𝐚𝐢𝐧, 𝐚 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 passionate about helping entrepreneurs, startups, and businesses transform their digital presence. With hands-on expertise in React, Node.js, MongoDB, JavaScript, Tailwind CSS, and API integrations, I design and develop modern, responsive, and user-friendly websites that don’t just look great they deliver measurable results.
