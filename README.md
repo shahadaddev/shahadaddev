@@ -22,7 +22,7 @@ Slow loading, outdated design, or limited templates can frustrate users, restric
 
 ✨ My mission is simple: to help businesses unlock the full potential of their online presence with websites that reflect their vision and convert visitors into long-term customers.
 
-<h2>✅ 𝐑𝐞𝐚𝐝𝐲 𝐭𝐨 𝐭𝐚𝐤𝐞 𝐭𝐡𝐞 𝐧𝐞𝐱𝐭 𝐬𝐭𝐞𝐩? 𝐋𝐞𝐭’𝐬 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐨𝐧 𝐥𝐢𝐧𝐤𝐞𝐝𝐢𝐧 𝐚𝐧𝐝 𝐛𝐮𝐢𝐥𝐝 𝐚 𝐝𝐢𝐠𝐢𝐭𝐚𝐥 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐭𝐡𝐚𝐭 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐬 𝐲𝐨𝐮𝐫 𝐢𝐝𝐞𝐚𝐬 𝐢𝐧𝐭𝐨 𝐥𝐞𝐚𝐝𝐬, 𝐬𝐚𝐥𝐞𝐬, 𝐚𝐧𝐝 𝐥𝐚𝐬𝐭𝐢𝐧𝐠 𝐬𝐮𝐜𝐜𝐞𝐬𝐬.<h2/>
+<h3>✅ <b>Ready to take the next step? Let's connect on linkedin and build a digital experience that transforms your ideas into leads, sales, and lasting success.</b> <h3/>
 </p>
 <h2>🚀 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐈 𝐔𝐬𝐞:</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;  margin-right: '2px';"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
