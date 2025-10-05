@@ -1,5 +1,5 @@
 <img src="https://i.postimg.cc/qq1m7gt6/Github-Updated-Banner.jpg"/>
-<h3>𝐈 𝐛𝐮𝐢𝐥𝐝 𝐦𝐨𝐝𝐞𝐫𝐧, 𝐡𝐢𝐠𝐡 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐰𝐞𝐛𝐬𝐢𝐭𝐞𝐬 🚀 𝐭𝐡𝐚𝐭 𝐡𝐞𝐥𝐩 𝐠𝐫𝐨𝐰 𝐲𝐨𝐮𝐫 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 📈 | 𝐒𝐤𝐢𝐥𝐥𝐞𝐝 𝐢𝐧 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 | 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 🟨</h3>
+<h3>I build modern, high performance websites 🚀 that help grow your business 📈</h3>
 <p>🚀 𝐃𝐨 𝐲𝐨𝐮 𝐟𝐞𝐞𝐥 𝐲𝐨𝐮𝐫 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 𝐢𝐬 𝐡𝐨𝐥𝐝𝐢𝐧𝐠 𝐛𝐚𝐜𝐤 𝐲𝐨𝐮𝐫 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐠𝐫𝐨𝐰𝐭𝐡? <br/>
 Slow loading, outdated design, or limited templates can frustrate users, restrict your ideas, and cost you valuable leads and sales. Imagine instead having a high-performance, custom-built website that works for your business - engaging visitors, driving conversions, and scaling as you grow.
 
