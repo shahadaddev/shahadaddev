@@ -1,5 +1,5 @@
 <img src="https://i.postimg.cc/qq1m7gt6/Github-Updated-Banner.jpg"/>
-<h3>Assalamualaikum, Everyone</h3>
+<h3>𝐈 𝐛𝐮𝐢𝐥𝐝 𝐦𝐨𝐝𝐞𝐫𝐧, 𝐡𝐢𝐠𝐡 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐰𝐞𝐛𝐬𝐢𝐭𝐞𝐬 🚀 𝐭𝐡𝐚𝐭 𝐡𝐞𝐥𝐩 𝐠𝐫𝐨𝐰 𝐲𝐨𝐮𝐫 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 📈 | 𝐒𝐤𝐢𝐥𝐥𝐞𝐝 𝐢𝐧 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 | 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 🟨</h3>
 <p>🚀 𝐃𝐨 𝐲𝐨𝐮 𝐟𝐞𝐞𝐥 𝐲𝐨𝐮𝐫 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 𝐢𝐬 𝐡𝐨𝐥𝐝𝐢𝐧𝐠 𝐛𝐚𝐜𝐤 𝐲𝐨𝐮𝐫 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐠𝐫𝐨𝐰𝐭𝐡? <br/>
 Slow loading, outdated design, or limited templates can frustrate users, restrict your ideas, and cost you valuable leads and sales. Imagine instead having a high-performance, custom-built website that works for your business - engaging visitors, driving conversions, and scaling as you grow.
 
@@ -22,9 +22,9 @@ Slow loading, outdated design, or limited templates can frustrate users, restric
 
 ✨ My mission is simple: to help businesses unlock the full potential of their online presence with websites that reflect their vision and convert visitors into long-term customers.
 
-✅ 𝐑𝐞𝐚𝐝𝐲 𝐭𝐨 𝐭𝐚𝐤𝐞 𝐭𝐡𝐞 𝐧𝐞𝐱𝐭 𝐬𝐭𝐞𝐩? 𝐋𝐞𝐭’𝐬 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐚𝐧𝐝 𝐛𝐮𝐢𝐥𝐝 𝐚 𝐝𝐢𝐠𝐢𝐭𝐚𝐥 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐭𝐡𝐚𝐭 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐬 𝐲𝐨𝐮𝐫 𝐢𝐝𝐞𝐚𝐬 𝐢𝐧𝐭𝐨 𝐥𝐞𝐚𝐝𝐬, 𝐬𝐚𝐥𝐞𝐬, 𝐚𝐧𝐝 𝐥𝐚𝐬𝐭𝐢𝐧𝐠 𝐬𝐮𝐜𝐜𝐞𝐬𝐬.
+✅ 𝐑𝐞𝐚𝐝𝐲 𝐭𝐨 𝐭𝐚𝐤𝐞 𝐭𝐡𝐞 𝐧𝐞𝐱𝐭 𝐬𝐭𝐞𝐩? 𝐋𝐞𝐭’𝐬 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐨𝐧 𝐥𝐢𝐧𝐤𝐞𝐝𝐢𝐧 𝐚𝐧𝐝 𝐛𝐮𝐢𝐥𝐝 𝐚 𝐝𝐢𝐠𝐢𝐭𝐚𝐥 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐭𝐡𝐚𝐭 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐬 𝐲𝐨𝐮𝐫 𝐢𝐝𝐞𝐚𝐬 𝐢𝐧𝐭𝐨 𝐥𝐞𝐚𝐝𝐬, 𝐬𝐚𝐥𝐞𝐬, 𝐚𝐧𝐝 𝐥𝐚𝐬𝐭𝐢𝐧𝐠 𝐬𝐮𝐜𝐜𝐞𝐬𝐬.
 </p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>🚀 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐈 𝐔𝐬𝐞:</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;  margin-right: '2px';"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block; margin-right: '2px';"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
